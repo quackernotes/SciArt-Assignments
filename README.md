@@ -9,8 +9,8 @@ Q1. Download a new Microscopy image to count particles other than cell (e.g: pro
   - The image had the CERT1 proteins tagged and they consisted a larger part of the particles visible in the cells.
 
 # PROTOCOL/INSTRUCTIONS FOR PRODUCING THE SAME RESULTS FOR COUNTING OF PARTICLES FROM MICROSCOPY IMAGE USING FIJI/IMAGEJ
-0. Download image of choice (preferably not in .jpeg form) (.png is alright)
-1. File → open → select downloaded image
+1. Download image of choice (preferably not in .jpeg form) (.png is alright)
+2. File → open → select downloaded image
    - : Opened file "CERT1.png"
 3. Process → subtract background → (uncheck everything except Preview)
    - : Rolling ball radius was set to 27    
