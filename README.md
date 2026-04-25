@@ -10,6 +10,7 @@ Q1. Download a new Microscopy image to count particles other than cell (e.g: pro
 
 # PROTOCOL/INSTRUCTIONS FOR PRODUCING THE SAME RESULTS FOR COUNTING OF PARTICLES FROM MICROSCOPY IMAGE USING FIJI/IMAGEJ
 1. Download image of choice (preferably not in .jpeg form) (.png is alright)
+   - .jpeg does not conserve image quality as well as .tif or .png 
 2. File → open → select downloaded image
    - : Opened file "CERT1.png"
 3. Process → subtract background → (uncheck everything except Preview)
