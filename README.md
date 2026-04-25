@@ -1,7 +1,7 @@
 # SciArt-Assignments_Ananya Jagtap
 IBB Sem-II SciArt Assignments using ImageJ to analyse scientific images and creating Infographics. (April 2026)
 
-# Q1. Download a new Microscopy image to count particles other than cell (e.g: protein plaques, echinoderm embryos, intracellular viral count, parasites in body fluids etc)
+_Q1. Download a new Microscopy image to count particles other than cell (e.g: protein plaques, echinoderm embryos, intracellular viral count, parasites in body fluids etc)_
 
 - Obtained the raw image from Open Cell - https://opencell.sf.czbiohub.org/target/404
 - Chose Ceramide transporter 1 (CERT1) as protein particles to count in a microscopy image with around 20 cells.
