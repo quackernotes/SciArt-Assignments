@@ -33,4 +33,4 @@ _Q1. Download a new Microscopy image to count particles other than cell (e.g: pr
     - .csv format is better supported and preferred over .xls or any other format for this purpose.
 
 # Conclusion
-Through a systematic and carefully controlled workflow in ImageJ, CERT1 proteins in the microscopy image were successfully identified and quantified. Each step, from preprocessing to particle analysis, was optimized to ensure accurate detection and reliable quantification. The results provide meaningful insights into the spatial distribution and intensity of CERT1 within the cell (localised near the Golgi bodies), demonstrating the effectiveness of image-based analysis.
+Utilizing a systematic and meticulously regulated workflow in ImageJ, CERT1 proteins within the microscopy image were effectively identified and quantified. Every phase, ranging from preprocessing to particle analysis, was refined to guarantee precise detection and dependable quantification. The findings offer significant insights into the spatial distribution and intensity of CERT1 within the cell (localized near the Golgi bodies), showcasing the efficacy of image-based analysis.
