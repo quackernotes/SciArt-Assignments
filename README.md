@@ -16,7 +16,7 @@ Q1. Download a new Microscopy image to count particles other than cell (e.g: pro
 3. Process → subtract background → (uncheck everything except Preview)
    - : Rolling ball radius was set to 27    
 4. Image → Adjust → 8 bit 
-5. Adjusting the threshold: Image → Adjust → Threshold values → check Dark background, making it blue and our particles of interest distinct → adjust the scale to get as much data ( don't loose data, if some pixels, as in dots remain leave it)
+5. Adjusting the threshold: Image → Adjust → Threshold values → check Dark background, (used Over/Under instead of Red setting) making it blue and our particles of interest distinct → adjust the scale to get as much data ( don't loose data, if some pixels, as in dots remain leave it)
    - : Auto simply worked in this case.
 6. Process → Binary → Convert to Masks → Process → Binary→ Watershed (puts a one pixel line in-between to differentiate two different particles) 
 7. Measure the length of the cells using the measuring tool
