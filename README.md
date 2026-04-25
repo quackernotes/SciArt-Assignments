@@ -1,4 +1,4 @@
-# SciArt-Assignments
+# SciArt-Assignments_Ananya Jagtap
 IBB Sem-II SciArt Assignments using ImageJ to analyse scientific images and creating Infographics. (April 2026)
 
 Q1. Download a new Microscopy image to count particles other than cell (e.g: protein plaques, echinoderm embryos, intracellular viral count, parasites in body fluids etc)
