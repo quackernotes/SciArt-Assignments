@@ -25,7 +25,7 @@ Q1. Download a new Microscopy image to count particles other than cell (e.g: pro
    - : Checked "Area", "Mean grey value", "min max grey value", "Area fraction".
 9. Analyze particles → play around with size parameters such that anything smaller will be cancelled out → play around a little bit with circularity parameter (how circular it is: 1 = perfect circle and zero = not circular at all) → leave Size and Circularity parameter as is if it is not working or you are not sure
    - : Size was set from 0-50 px^2 and circularity 0.40-1.00 to exclude very small noise particles and focus on roughly circular particles.
-   - : checked "Display Results", "Clear Results", "Summarize", "Exclude on Edges" (separately, while trying another time you can check "Overlay" too and it shall label each segment)
+   - : checked "Display Results", "Clear Results", "Summarize", "Exclude on Edges" (you can also check "Overlay" too and it shall label each particle counted)
    - : Got ~1742 particle count
 10. Save the Results table in .csv format and the final image in .TIF format (name the files as per convenience and with enough detail so as to aid in future referencing/locating of the data.
     - : Saved results excel sheet as "Results CERT1.csv" and the Summary similarly as "Summary CERT1.csv"
