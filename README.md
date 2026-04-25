@@ -19,6 +19,7 @@ Q1. Download a new Microscopy image to count particles other than cell (e.g: pro
 5. Adjusting the threshold: Image → Adjust → Threshold values → check Dark background, (used Over/Under instead of Red setting) making it blue and our particles of interest distinct → adjust the scale to get as much data ( don't loose data, if some pixels, as in dots remain leave it)
    - : Auto simply worked in this case.
 6. Process → Binary → Convert to Masks → Process → Binary→ Watershed (puts a one pixel line in-between to differentiate two different particles) 
+   - : This separated clusters of protein particles making helping the process of counting and Analysis become more accurate
 7. Measure the length of the cells using the measuring tool
    - : was around ~100px 
 8. Analyse → Set measurements  → check required option (If more parameters are needed in the measurement table)
@@ -30,3 +31,6 @@ Q1. Download a new Microscopy image to count particles other than cell (e.g: pro
 10. Save the Results table in .csv format and the final image in .TIF format (name the files as per convenience and with enough detail so as to aid in future referencing/locating of the data.
     - : Saved results excel sheet as "Results CERT1.csv" and the Summary similarly as "Summary CERT1.csv"
     - .csv format is better supported and preferred over .xls or any other format for this purpose.
+
+# Conclusion
+Through a systematic and carefully controlled workflow in ImageJ, CERT1 proteins in the microscopy image were successfully identified and quantified. Each step, from preprocessing to particle analysis, was optimized to ensure accurate detection and reliable quantification. The results provide meaningful insights into the spatial distribution and intensity of CERT1 within the cell (localised near the Golgi bodies), demonstrating the effectiveness of image-based analysis.
