@@ -5,7 +5,7 @@ Q1. Download a new Microscopy image to count particles other than cell (e.g: pro
 
 - Obtained the raw image from Open Cell - https://opencell.sf.czbiohub.org/target/404
 - Chose Ceramide transporter 1 (CERT1) as protein particles to count in a microscopy image with around 20 cells.
-- The CERT1 Shelters ceramides and diacylglycerol lipids inside its START domain and mediates the intracellular trafficking of ceramides and diacylglycerol lipids in a non-vesicular manner.
+  The CERT1 Shelters ceramides and diacylglycerol lipids inside its START domain and mediates the intracellular trafficking of ceramides and diacylglycerol lipids in a non-vesicular manner.
 
 # PROTOCOL/INSTRUCTIONS FOR PRODUCING THE SAME RESULTS FOR COUNTING OF PARTICLES FROM MICROSCOPY IMAGE USING FIJI/IMAGEJ
 1. File → open → select 
