@@ -1,5 +1,5 @@
 # SciArt-Assignments
-IBB Sem-II SciArt Assignments using ImageJ/Cell Profiler to analyse scientific images and creating Infographics. (April 2026)
+IBB Sem-II SciArt Assignments using ImageJ to analyse scientific images and creating Infographics. (April 2026)
 
 Q1. Download a new Microscopy image to count particles other than cell (e.g: protein plaques, echinoderm embryos, intracellular viral count, parasites in body fluids etc)
 
